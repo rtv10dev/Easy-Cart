@@ -1,0 +1,21 @@
+{
+  "productList": "Product list",
+  "confirm": "Confirm",
+  "deleteConfirmation": "Are you sure you want to delete the product: $productName?",
+  "deleteConfirmationAll": "Are you sure you want to delete all the products?",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "errorDeletingAll": "Error deleting all products",
+  "microphonePermission": "Microphone permission required to add products",
+  "talkNow": "Talk now",
+  "invalidProduct": "Invalid product name",
+  "next": "Next",
+  "back": "Back",
+  "save": "Save",
+  "quantity": "Quantity",
+  "errorAddingProduct": "Error adding product",
+  "nameQuestion": "What is your name?",
+  "invalidName": "Invalid name",
+  "list": "List",
+  "check": "Check"
+}

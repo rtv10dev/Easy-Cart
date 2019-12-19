@@ -1,0 +1,21 @@
+{
+  "productList": "Lista de productos",
+  "confirm": "Confirmar",
+  "deleteConfirmation": "¿Seguro que quieres borrar el producto: $productName?",
+  "deleteConfirmationAll": "¿Seguro que quieres eliminar todos los productos?",
+  "cancel": "Cancelar",
+  "delete": "Eliminar",
+  "errorDeletingAll": "Error borrando todos los productos",
+  "microphonePermission": "Es necesario que concedas el permiso de micrófono para añadir productos",
+  "talkNow": "Habla ahora",
+  "invalidProduct": "Nombre del producto no válido",
+  "next": "Siguiente",
+  "back": "Volver",
+  "save": "Guardar",
+  "quantity": "Cantidad",
+  "errorAddingProduct": "Error al añadir el producto",
+  "nameQuestion": "¿Cómo te llamas?",
+  "invalidName": "Nombre no válido",
+  "list": "Lista",
+  "check": "Completar"
+}
